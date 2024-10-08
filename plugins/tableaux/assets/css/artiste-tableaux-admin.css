@@ -1,0 +1,52 @@
+#artiste_tableaux_image_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.image-wrapper {
+    position: relative;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 4px;
+    width: 150px;
+}
+
+.image-wrapper img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.image-wrapper .caption-input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.image-wrapper .remove-image {
+    width: 100%;
+    text-align: center;
+}
+
+#previewImage {
+    position: fixed;
+    z-index: 9999;
+    background: white;
+    padding: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#artiste_tableaux_add_images {
+    margin-top: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 782px) {
+    .image-wrapper {
+        width: calc(50% - 7.5px);
+    }
+}

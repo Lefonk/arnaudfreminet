@@ -1,0 +1,1065 @@
+# Translation of Plugins - Style Kits &#8211; Advanced Theme Styles for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Style Kits &#8211; Advanced Theme Styles for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-12 11:02:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Style Kits &#8211; Advanced Theme Styles for Elementor - Stable (latest release)\n"
+
+#: inc/elementor/kit/Instance_List_Table.php:110
+msgid "No posts found."
+msgstr "Aucune publication trouvée."
+
+#: inc/elementor/kit/Instance_List_Table.php:163
+msgid "Type"
+msgstr "Type"
+
+#: inc/elementor/kit/Instance_List_Table.php:164
+msgid "Kit"
+msgstr "Kit"
+
+#: inc/elementor/kit/Instance_List_Table.php:192
+msgid "View"
+msgstr "Voir"
+
+#: inc/elementor/kit/Instance_List_Table.php:370
+msgid "Filter by Style Kit"
+msgstr "Filtre par kit de style"
+
+#: inc/elementor/kit/Instance_List_Table.php:451
+msgid "Instance List"
+msgstr "Liste des instances"
+
+#: inc/settings/class-settings-general.php:62
+msgctxt "settings title"
+msgid "Template import method"
+msgstr "Méthode d’importation de modèle"
+
+#. translators: %s: Global Style Kit Documentation link
+#: inc/settings/class-settings-general.php:65
+msgid "Always import templates using the Global Style Kit. %s"
+msgstr "Importez toujours les modèles à l’aide du Kit de style global. %s"
+
+#: inc/elementor/class-colors.php:385 inc/elementor/class-typography.php:426
+#: inc/elementor/class-typography.php:1652
+#: inc/settings/class-settings-general.php:66
+#: inc/settings/class-settings-general.php:95
+#: inc/settings/class-settings-general.php:106
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: inc/elementor/class-tools.php:115
+msgid "Sorry, you are not allowed to rollback Style Kits plugin for this site."
+msgstr "Désolé, vous ne disposez pas des droits pour revenir à une version précédente de Style Kits pour ce site."
+
+#: inc/elementor/kit/Kits_List_Table.php:146
+msgid "Draft"
+msgstr "Brouillon"
+
+#. translators: %s: Version number.
+#: analogwp-templates.php:119
+msgid "Rollback to v%s"
+msgstr "Revenir vers la version v%s"
+
+#: inc/elementor/Promotions.php:220
+msgid "Accent"
+msgstr "Accentué"
+
+#: inc/elementor/Promotions.php:229
+msgid "Accent Background Color"
+msgstr "Couleur d’accentuation de l’arrière plan"
+
+#: inc/settings/views/html-admin-settings.php:69
+msgid "Your Email"
+msgstr "Votre e-mail"
+
+#: inc/settings/views/html-admin-settings.php:70
+msgid "First Name"
+msgstr "Prénom"
+
+#: inc/settings/views/html-admin-settings.php:79
+msgid "privacy policy"
+msgstr "politique de confidentialité"
+
+#: inc/settings/views/html-admin-settings.php:91
+msgid "Visit the online docs"
+msgstr "Consultez la documentation en ligne"
+
+#: inc/settings/views/html-admin-settings.php:95
+msgid "Sign up for email updates"
+msgstr "Abonnez-vous aux mises à jour"
+
+#: inc/elementor/class-colors.php:307
+msgid "The primary accent color applies on links, icons, and other elements. You can also define the text link color in the Typography panel."
+msgstr "La couleur d’accent primaire s’applique sur les liens, les icônes, et d’autres éléments. Vous pouvez également définir la couleur du lien texte dans le panneau Typographie."
+
+#: inc/elementor/class-colors.php:330
+msgid "The default button color. You can also define button colors under the Buttons panel, and individually for each button size under Buttons Sizes panel."
+msgstr "La couleur du bouton par défaut. Vous pouvez également définir les couleurs des boutons dans le panneau Boutons, et individuellement pour chaque taille de bouton dans le panneau Tailles de boutons."
+
+#: inc/elementor/Promotions.php:231
+msgid "Enjoy better background color control in your layouts by adding a third background color class. Available in Style Kits Pro."
+msgstr "Profiter d’un meilleur contrôle des couleurs d’arrière-plan dans les mises en page en ajoutant une troisième classe de couleurs d’arrière-plan. Disponible avec Style Kits PRO."
+
+#: inc/settings/views/html-admin-settings.php:64
+msgid "Upgrade to Style Kits Pro with a 15% discount"
+msgstr "Mettez à niveau vers Style Kits PRO avec une réduction de 15%"
+
+#. translators: %s: Link to AnalogWP privacy policy.
+#: inc/settings/views/html-admin-settings.php:78
+msgid "By submitting your details, you agree to our %s."
+msgstr "En envoyant vos coordonnées, vous acceptez notre %s."
+
+#: inc/settings/views/html-admin-settings.php:90
+msgid "Need help with Style Kits?"
+msgstr "Vous avez bsoin d’aide avec Style Kits ?"
+
+#: inc/settings/views/html-admin-settings.php:96
+msgid "Stay in the loop with Style Kits development by signing up to our newsletter."
+msgstr "Restez au courant du développement de Style Kits en vous inscrivant à notre newsletter."
+
+#: inc/settings/views/html-admin-settings.php:71
+msgid "Send me the coupon"
+msgstr "Envoyez-moi le code promo"
+
+#. Description of the plugin
+#: analogwp-templates.php
+msgid "Style Kits extends the Elementor theme styles editor with more global styling options. Boost your design workflow in Elementor with intuitive global controls and theme style presets."
+msgstr "Style Kits étend l’éditeur de styles de thème Elementor avec des options de style plus globales. Boostez votre flux de travail de conception dans Elementor avec des contrôles globaux intuitifs et des préréglages des thèmes de style."
+
+#: inc/elementor/kit/Kits_List_Table.php:99
+msgid "Entire Site"
+msgstr "Dans tout le site"
+
+#: inc/elementor/class-typography.php:1350
+#: inc/elementor/class-typography.php:2102
+#: inc/elementor/kit/Kits_List_Table.php:101
+msgid "None"
+msgstr "Aucun"
+
+#: inc/elementor/kit/Kits_List_Table.php:123
+msgid "Instances"
+msgstr "Instances"
+
+#: inc/elementor/class-ang-action.php:116
+msgid "Meet Style Kits for Elementor"
+msgstr "Découvrez les kits de style pour Elementor"
+
+#: inc/elementor/class-typography.php:276
+msgid "Typographic Sizes"
+msgstr "Tailles typographiques"
+
+#: inc/elementor/class-typography.php:329
+msgid "Heading"
+msgstr "Titrage"
+
+#: inc/elementor/class-typography.php:370
+msgid "Text"
+msgstr "Texte"
+
+#: inc/elementor/class-typography.php:300
+msgid "Edit the available sizes for the Heading Element."
+msgstr "Modifier les tailles disponibles pour l’élément de titre."
+
+#: inc/elementor/class-typography.php:351
+msgid "Edit the available sizes for the p, span, and div tags of the Heading Element."
+msgstr "Modifier les tailles disponibles pour les balises p, span et div de l’élément de titrage."
+
+#. translators: %s: version number
+#: analogwp-templates.php:47 analogwp-templates.php:199
+msgid "Style Kit for Elementor requires PHP version %s"
+msgstr "Style Kit pour Elementor à besoin de PHP version %s"
+
+#: analogwp-templates.php:48 analogwp-templates.php:200
+msgid "Error Activating"
+msgstr "Erreur d’activation"
+
+#: inc/api/class-local.php:451
+msgid "Invalid param(s)."
+msgstr "Paramètre(s) non valide(s)."
+
+#: inc/api/class-local.php:455
+msgid "Please provide a title."
+msgstr "Veuillez saisir un titre."
+
+#: inc/elementor/Promotions.php:60
+msgctxt "Section Title"
+msgid "Layout Tools"
+msgstr "Outils de mise en page"
+
+#: inc/elementor/Promotions.php:71
+msgid "Layout Tools"
+msgstr "Outils de mise en page"
+
+#: inc/elementor/Promotions.php:108
+msgid "Advanced Form Controls"
+msgstr "Contrôles de formulaire avancés"
+
+#: inc/elementor/class-finder-shortcuts.php:59
+msgid "Theme Style Kits"
+msgstr "Kits de style du thème"
+
+#. translators: %s: Human-readable time difference.
+#: inc/elementor/kit/Instance_List_Table.php:130
+#: inc/elementor/kit/Kits_List_Table.php:83
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: inc/elementor/kit/Instance_List_Table.php:165
+#: inc/elementor/kit/Kits_List_Table.php:124
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/elementor/kit/Instance_List_Table.php:166
+#: inc/elementor/kit/Kits_List_Table.php:125
+msgid "Date"
+msgstr "Date"
+
+#: inc/elementor/kit/Kits_List_Table.php:169
+msgid "Export Theme Style Kit"
+msgstr "Exporter le kit de style"
+
+#: inc/elementor/kit/Instance_List_Table.php:281
+#: inc/elementor/kit/Kits_List_Table.php:266
+msgid "Move to Trash"
+msgstr "Déplacer dans la corbeille"
+
+#. translators: %s: Number of posts.
+#: inc/elementor/kit/Instance_List_Table.php:297
+#: inc/elementor/kit/Kits_List_Table.php:284
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#: inc/class-onboarding.php:46 inc/class-onboarding.php:47
+msgid "Welcome to Style Kits"
+msgstr "Bienvenue sur Style Kits"
+
+#. translators: %s: Minimum required Elementor version.
+#: analogwp-templates.php:107
+msgid "Style Kits requires Elementor v%s or newer in order to work. Please update Elementor to the latest version."
+msgstr "Style Kits nécessite Elementor v%s ou plus pour fonctionner. Veuillez mettre à jour Elementor à la dernière version."
+
+#: inc/admin/Notice.php:172
+msgid "Style Kits for Elementor Logo"
+msgstr "Kits de style pour le logo Elementor"
+
+#: inc/api/class-local.php:481
+msgid "The new Theme Style Kit has been saved and applied on this page."
+msgstr "Le nouveau kit de style de thème a été enregistré et appliqué sur cette page."
+
+#: inc/elementor/class-ang-action.php:103
+msgid "This will clean-up all the values from the current Theme Style kit. If you need to revert, you can do so at the Revisions tab."
+msgstr "Cela permettra de nettoyer toutes les valeurs de l’actuel kit de style de thème. Pour revenir en arrière, aller dans l’onglet Révisions."
+
+#: inc/elementor/class-typography.php:1132
+msgid "This will reset the Theme Style Kit and clean up any values."
+msgstr "Cela réinitialisera le kit de style de thème et nettoiera toutes les valeurs."
+
+#: inc/elementor/class-typography.php:1136
+msgid "Reset Theme Style Kit"
+msgstr "Réinitialiser le kit"
+
+#: inc/elementor/class-typography.php:1143
+msgid "Save the current styles as a different Theme Style Kit. You can then apply it on other pages, or globally."
+msgstr "Enregistrer les styles actuels en tant que kit de style de thème différent. Vous pouvez ensuite l’appliquer sur d’autres pages, ou globalement."
+
+#: inc/elementor/class-typography.php:1157
+msgid "Export Theme Style Kit CSS"
+msgstr "Exporter les CSS du kit"
+
+#: inc/elementor/Promotions.php:73
+msgid "Handy tools to clean inline styles from your existing layouts and make them global-design-ready. Highlight elements that have Classes or custom CSS."
+msgstr "Outils pratiques pour nettoyer les styles en ligne à partir de vos mises en page existantes et les rendre prêts pour le design global. Mettez en surbrillance les éléments qui ont des classes ou des CSS personnalisés."
+
+#: inc/elementor/Promotions.php:110
+msgid "Offers controls to customize form column/rows gap, label spacing, and form messages colors."
+msgstr "Offre des contrôles pour personnaliser l’écart colonne/rangée de formulaire, l’espacement du libellé, et les couleurs de messages."
+
+#. translators: %s: Link to update Elementor.
+#: analogwp-templates.php:113
+msgid "Update Elementor Now"
+msgstr "Mettre Elementor à jour maintenant"
+
+#: inc/elementor/class-colors.php:232
+msgctxt "Section Title"
+msgid "Accent Colors"
+msgstr "Couleurs d’accentuation"
+
+#. translators: %1$s: Link to documentation, %2$s: Link text.
+#: inc/elementor/class-colors.php:241
+msgid "Set the accent colors of your layout."
+msgstr "Définir les couleurs d’accent de la mise en page."
+
+#: inc/elementor/class-typography.php:896
+msgid "Normal Styling"
+msgstr "Style normal"
+
+#: inc/elementor/class-typography.php:955
+msgid "Hover Styling"
+msgstr "Style au survol"
+
+#: inc/elementor/class-typography.php:1589
+msgid "Headings"
+msgstr "Titrages"
+
+#: inc/elementor/class-typography.php:1611
+msgid "Headings Font"
+msgstr "Police des titrages"
+
+#: inc/elementor/kit/Kits_List_Table.php:63
+msgid "No Kits found."
+msgstr "Aucun kits trouvés."
+
+#: inc/elementor/kit/Instance_List_Table.php:135
+#: inc/elementor/kit/Kits_List_Table.php:88
+msgid "Published"
+msgstr "Publié"
+
+#: inc/elementor/kit/Instance_List_Table.php:162
+#: inc/elementor/kit/Kits_List_Table.php:122
+msgid "Title"
+msgstr "Titre"
+
+#. translators: %s: Post Title
+#. translators: %s: Kit Title
+#: inc/elementor/kit/Instance_List_Table.php:184
+#: inc/elementor/kit/Kits_List_Table.php:142
+msgid "%s (Edit)"
+msgstr "%s (Modifier)"
+
+#: inc/elementor/kit/Instance_List_Table.php:190
+#: inc/elementor/kit/Kits_List_Table.php:162
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/elementor/kit/Instance_List_Table.php:191
+#: inc/elementor/kit/Kits_List_Table.php:168
+msgid "Trash"
+msgstr "Supprimer"
+
+#: inc/elementor/class-typography.php:1622
+msgid "You can set individual heading font and colors below."
+msgstr "Vous pouvez définir la police et les couleurs de titre individuelles ci-dessous."
+
+#: inc/elementor/kit/Instance_List_Table.php:193
+msgid "Edit with Elementor"
+msgstr "Modifier avec Elementor"
+
+#: inc/elementor/class-colors.php:599 inc/elementor/class-typography.php:650
+#: inc/elementor/class-typography.php:1138
+#: inc/elementor/class-typography.php:1926
+#: inc/elementor/class-typography.php:2088
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: inc/api/class-local.php:475
+msgid "Unable to create a Kit"
+msgstr "Impossible de créer un kit"
+
+#: inc/elementor/class-typography.php:842
+msgid "Button Sizes"
+msgstr "Tailles de bouton"
+
+#. translators: %s: WordPress version
+#: analogwp-templates.php:82
+msgid "Style Kits requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr "Les kits de style nécessitent la version WordPress %s et plus. Vous utilisez une version antérieure, l’extension ne peut pas fonctionner."
+
+#: analogwp-templates.php:166
+msgid "Style Kits is not working because you need to activate the Elementor plugin."
+msgstr "Style Kits ne fonctionne pas car vous devez activer l’extension Elementor."
+
+#: analogwp-templates.php:174
+msgid "Style Kits is not working because you need to install the Elementor plugin."
+msgstr "Style Kits ne fonctionne pas parce que vous devez installer l’extension Elementor."
+
+#: inc/settings/views/html-admin-settings.php:99
+msgid "Sign me up"
+msgstr "Inscrivez-moi"
+
+#: inc/class-tracker.php:132
+msgid "review on WordPress.org"
+msgstr "noter et commenter sur WordPress.org"
+
+#: inc/elementor/class-ang-action.php:136
+msgid "CSS Variables"
+msgstr "Variables CSS"
+
+#: inc/elementor/class-typography.php:1598
+#: inc/elementor/sections/background-color-classes.php:138
+#: inc/elementor/sections/background-color-classes.php:230
+msgid "Headings Color"
+msgstr "Couleur des titrages"
+
+#: inc/elementor/sections/background-color-classes.php:61
+msgid "Light"
+msgstr "Clair"
+
+#: inc/elementor/sections/background-color-classes.php:152
+msgid "Dark"
+msgstr "Foncé"
+
+#: inc/settings/class-settings-version-control.php:73
+msgid "Beta Features"
+msgstr "Fonctionnalités bêta"
+
+#: inc/api/class-local.php:124 inc/api/class-local.php:319
+msgid "Invalid or expired license provided."
+msgstr "Licence fournie non valide ou expirée."
+
+#. translators: %2$s Plugin Name %3%s Review text
+#: inc/class-tracker.php:130
+msgid "Hey! You have been using %1$s for over 2 weeks, we hope you enjoy it! If so, please leave a positive %2$s."
+msgstr "Super ! Vous utilisez %1$s depuis plus de 2 semaines, nous espérons que vous en profiterez ! Si c’est le cas, veuillez laisser une %2$s."
+
+#: inc/elementor/class-ang-action.php:137
+msgid "Remove Page ID from the CSS"
+msgstr "Retirer l’ID de page du CSS"
+
+#: inc/elementor/sections/background-color-classes.php:52
+msgctxt "Section Title"
+msgid "Background Color Classes"
+msgstr "Classes de couleur d’arrière-plan"
+
+#: inc/elementor/sections/background-color-classes.php:70
+msgid "Add the class <strong>sk-light-bg</strong> to a section or column to apply these colors."
+msgstr "Ajoute la classe <strong>sk-light-bg à</strong> une section ou une colonne pour appliquer ces couleurs."
+
+#: inc/elementor/sections/background-color-classes.php:161
+msgid "Add the class <strong>sk-dark-bg</strong> to a section or column to apply these colors."
+msgstr "Ajoute la classe <strong>sk-dark-bg</strong> à une section ou une colonne pour appliquer ces couleurs."
+
+#: inc/settings/class-settings-misc.php:43
+msgid "Opt-in to our anonymous plugin data collection and to updates"
+msgstr "Inscrivez-vous à notre collecte de données anonymes de l’extension et aux mises à jour"
+
+#: inc/settings/class-settings-version-control.php:43
+msgid "Rollback Versions"
+msgstr "Versions précédentes"
+
+#: inc/settings/class-settings-misc.php:48
+msgid "We guarantee no sensitive data is collected. "
+msgstr "Nous garantissons qu’aucune donnée sensible n’est collectée. "
+
+#: inc/settings/class-settings-version-control.php:25
+msgid "Version Control"
+msgstr "Contrôle de version"
+
+#: inc/settings/class-settings-version-control.php:78
+msgid "Become a beta tester"
+msgstr "Devenez bêta testeur"
+
+#: inc/settings/class-settings-version-control.php:49
+msgid "Rollback Style Kits"
+msgstr "Restauration de Style Kits"
+
+#: inc/settings/class-settings-version-control.php:79
+msgid "Check this box to turn on beta updates for Style Kits and Style Kits Pro. The update will not be installed automatically, you always have the option to ignore it."
+msgstr "Cocher la case pour activer les mises à jour bêta pour Style Kits et Style Kits PRO. La mise à jour ne sera pas installée automatiquement, vous avez toujours la possibilité de l’ignorer."
+
+#. translators: 1: Style Kits for Elementor, 2: Link to plugin review
+#: inc/admin/class-admin.php:43
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Vous aimez %1$s ? Veuillez nous laisser une note %2$s. Nous apprécions vraiment votre soutien !"
+
+#: inc/admin/class-admin.php:65
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+#: inc/admin/class-admin.php:66
+msgid "Get Support"
+msgstr "Obtenir de l’aide"
+
+#: inc/settings/class-settings-general.php:79
+msgctxt "settings title"
+msgid "Global Style Kit"
+msgstr "Kit de style global"
+
+#: inc/api/class-local.php:584
+msgid "Invalid Block ID."
+msgstr "ID de bloc non valide."
+
+#: inc/settings/class-settings-extensions.php:25
+msgid "Extensions"
+msgstr "Extensions"
+
+#. translators: %1$s: Link to Style Kits Pro. %2$s: Go Pro text.
+#: inc/elementor/Promotions.php:154 inc/Plugin.php:222
+#: inc/register-settings.php:78 assets/js/app.js:11 assets/js/app.js:27
+msgid "Go Pro"
+msgstr "Passer à PRO"
+
+#. translators: Global Style Kit post title.
+#: inc/Utils.php:134 inc/Utils.php:563
+msgid "Global: %s"
+msgstr "Global : %s"
+
+#: inc/admin/class-admin.php:65 inc/settings/views/html-admin-settings.php:88
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/class-admin-settings.php:77
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont été enregistrés."
+
+#: inc/class-admin-settings.php:134
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Les modifications effectuées seront perdues si vous sortez de cette page."
+
+#: inc/register-settings.php:46 inc/settings/views/html-admin-settings.php:28
+msgid "Style Kits Settings"
+msgstr "Réglages de Style Kits"
+
+#: inc/settings/class-settings-general.php:26
+#: inc/settings/class-settings-general.php:38
+msgid "General"
+msgstr "Général"
+
+#: inc/settings/class-settings-gopro.php:27
+msgid "Style Kits Pro"
+msgstr "Style Kits PRO"
+
+#: inc/settings/class-settings-misc.php:23
+msgid "Misc"
+msgstr "Divers"
+
+#: inc/settings/class-settings-version-control.php:61
+msgid "Reinstall this version"
+msgstr "Réinstaller cette version"
+
+#: inc/settings/views/html-admin-settings-gopro.php:26
+msgid "Explore Style Kits Pro"
+msgstr "Explorez les kits de style PRO"
+
+#: inc/settings/views/html-admin-settings.php:53
+msgid "Save changes"
+msgstr "Enregistrer"
+
+#: inc/api/class-local.php:566
+msgid "Invalid token data returned"
+msgstr "Données de jeton retournées non valides"
+
+#. translators: %s: Style kit title.
+#: inc/elementor/class-tools.php:239
+msgid "Style Kit: %s <span style=\"color:#5C32B6;\">&#9679;</span>"
+msgstr "Kit de style : %s <span style=\"color:#5C32B6;\">●</span>"
+
+#: inc/settings/views/html-admin-settings.php:101
+msgid "By signing up you agree to our"
+msgstr "En vous inscrivant, vous acceptez notre"
+
+#: inc/settings/views/html-admin-settings.php:101
+msgid "privacy and terms"
+msgstr "Politique de confidentialité"
+
+#: inc/class-admin-settings.php:562 inc/class-admin-settings.php:627
+msgid "Toggle"
+msgstr "Permuter"
+
+#: inc/elementor/class-tools.php:123
+msgid "Error occurred, the version selected is invalid. Try selecting different version."
+msgstr "Une erreur s’est produite, la version sélectionnée n’est pas valide. Essayez de sélectionner une version différente."
+
+#. translators: %1$s: Link to documentation, %2$s: Link text.
+#: inc/elementor/class-colors.php:241 inc/elementor/class-typography.php:300
+#: inc/elementor/class-typography.php:351
+#: inc/elementor/class-typography.php:725
+#: inc/elementor/class-typography.php:778
+#: inc/elementor/class-typography.php:855
+msgid "Learn more."
+msgstr "En savoir plus."
+
+#: inc/elementor/kit/Manager.php:610
+msgid "Style Kit imported"
+msgstr "Kit de style importé"
+
+#: inc/api/class-local.php:526
+msgid "Invalid Style Kit ID."
+msgstr "ID du kit de style non valide."
+
+#: inc/elementor/kit/Manager.php:580
+msgid "Error occured while requesting Style Kit data."
+msgstr "L’erreur s’est produite lors de la demande de données du kit de style."
+
+#: inc/elementor/class-typography.php:725
+msgid "Add padding to the outer sections of your layouts by using these controls."
+msgstr "Ajouter des marges internes aux sections extérieures des mises en page à l’aide de ces contrôles."
+
+#: inc/elementor/class-typography.php:778
+msgid "Column Gap presets add padding to the columns of a section."
+msgstr "Les préréglages d’écart de colonne règles des marges internes des colonnes d’une section."
+
+#: inc/elementor/class-typography.php:853
+msgid "Define the default styles for every button size."
+msgstr "Définir les styles par défaut pour chaque taille de bouton."
+
+#: inc/elementor/class-typography.php:707
+#: inc/elementor/class-typography.php:1206
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/elementor/class-typography.php:711
+#: inc/elementor/class-typography.php:1210
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: inc/elementor/class-typography.php:1205
+#: inc/elementor/class-typography.php:1276
+msgid "No Padding"
+msgstr "Pas de marge"
+
+#: inc/class-elementor.php:49
+msgid "AnalogWP Classes"
+msgstr "Classes AnalogWP"
+
+#: inc/elementor/class-colors.php:311
+msgid "Primary Accent"
+msgstr "Menu du profil"
+
+#: inc/elementor/class-colors.php:334
+msgid "Secondary Accent"
+msgstr "Accent secondaire"
+
+#: inc/elementor/class-typography.php:706
+#: inc/elementor/class-typography.php:1204
+#: inc/elementor/class-typography.php:1275
+#: inc/settings/class-settings-experiments.php:36 assets/js/app.js:43
+msgid "Default"
+msgstr "Défaut"
+
+#: inc/elementor/class-typography.php:819
+msgid "Space Between Widgets"
+msgstr "Espace entre les widgets"
+
+#: inc/elementor/tags/class-dark-background.php:14
+msgid "Dark Background"
+msgstr "Arrière plan foncé"
+
+#: inc/elementor/class-typography.php:1351
+#: inc/elementor/tags/class-light-background.php:14
+msgid "Light Background"
+msgstr "Arrière-plan clair"
+
+#: inc/elementor/class-typography.php:717
+#: inc/elementor/class-typography.php:1198
+msgid "Outer Section Padding"
+msgstr "Marges externes de section extérieure"
+
+#: inc/elementor/class-typography.php:820
+msgid "Sets the default space between widgets, overrides the default value set in Elementor > Style > Space Between Widgets."
+msgstr "Définit l’espace par défaut entre les widgets, remplace la valeur par défaut définie dans Elementor > Style > Espace entre les widgets."
+
+#. Plugin Name of the plugin
+#: analogwp-templates.php inc/admin/class-admin.php:44
+#: inc/class-tracker.php:131 inc/register-settings.php:27
+msgid "Style Kits for Elementor"
+msgstr "Style Kits pour Elementor"
+
+#: inc/elementor/class-ang-action.php:132
+msgid "Ok, got it."
+msgstr "OK, j’ai compris."
+
+#: inc/elementor/class-ang-action.php:133
+msgid "Go to Page Style"
+msgstr "Aller au style de page"
+
+#: inc/elementor/class-typography.php:863
+msgid "XS"
+msgstr "XS"
+
+#: inc/elementor/class-typography.php:864
+msgid "S"
+msgstr "S"
+
+#: inc/elementor/class-typography.php:865
+msgid "M"
+msgstr "M"
+
+#: inc/elementor/class-typography.php:866
+msgid "L"
+msgstr "L"
+
+#: inc/elementor/class-typography.php:879
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/elementor/class-typography.php:904
+#: inc/elementor/class-typography.php:963
+#: inc/elementor/sections/background-color-classes.php:95
+#: inc/elementor/sections/background-color-classes.php:186
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/elementor/class-typography.php:915
+#: inc/elementor/class-typography.php:974
+#: inc/elementor/sections/background-color-classes.php:80
+#: inc/elementor/sections/background-color-classes.php:171
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: inc/elementor/class-typography.php:942
+#: inc/elementor/class-typography.php:1001
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: inc/elementor/class-typography.php:1014
+msgid "Padding"
+msgstr "Marges intérieures"
+
+#: inc/register-settings.php:38
+msgid "Style Kits Library"
+msgstr "Bibliothèque de kits de style"
+
+#: inc/settings/class-settings-misc.php:51
+msgid "Remove Data on Uninstall"
+msgstr "Supprimer les données lors de la désinstallation"
+
+#: inc/elementor/class-ang-action.php:134
+msgid "This template offers global typography and spacing control, through the Page Style tab."
+msgstr "Ce modèle offre une typographie globale et un contrôle d’espacement, grâce à l’onglet Style de page."
+
+#: inc/elementor/class-ang-action.php:135
+msgid "Typography, column gaps and more, are controlled layout-wide at Page Styles Panel, giving you the flexibility you need over the design of this template. You can save the styles and apply them to any other page. <a href=\"#\" target=\"_blank\">Learn More.</a>"
+msgstr "La typographie, les espaces entre les colonnes et plus, sont contrôlés globalement dans le panneau Styles de page, cela donne une grande flexibilité pour le design de modèle. Vous pouvez enregistrer les styles et les appliquer à n’importe quelle autre page. <a href=\"#\" target=\"_blank\">En savoir plus.</a>"
+
+#: inc/elementor/class-finder-shortcuts.php:34
+msgid "Style Kits for Elementor Shortcuts"
+msgstr "Kits de style pour les raccourcis Elementor"
+
+#: inc/settings/class-settings-misc.php:52
+msgid "Check this box to remove all data stored by Style Kit for Elementor plugin, including license info, user settings, import history etc. Any imported or manually saved Style Kits are not removed."
+msgstr "Cocher la case pour supprimer toutes les données stockées par l’extension Style Kit for Elementor, y compris les informations de licence, les réglages utilisateur, l’historique d’importation, etc. Les kits de style importés ou enregistrés manuellement ne sont pas supprimés."
+
+#: inc/settings/class-settings-version-control.php:44
+msgid "If you are having issues with current version of Style Kits for Elementor, you can rollback to a previous stable version."
+msgstr "Si vous avez des problèmes avec la version actuelle des Style Kits for Elementor, vous pouvez revenir à une version stable précédente."
+
+#: inc/elementor/class-ang-action.php:128
+msgid "Style Kit Update Detected"
+msgstr "Mise à jour du kit de style détectée"
+
+#: inc/elementor/class-ang-action.php:130
+msgid "Discard"
+msgstr "Rejeter"
+
+#: inc/elementor/class-ang-action.php:131
+msgid "Apply Changes"
+msgstr "Appliquer les modifications"
+
+#: inc/elementor/class-tools.php:167
+msgid "Rollback to Previous Version"
+msgstr "Revenir à la version précédente"
+
+#: inc/elementor/class-tools.php:273
+msgid "Apply Global Style Kit"
+msgstr "Appliquer le kit de style global"
+
+#: inc/elementor/class-ang-action.php:129
+msgid "<p>The Style kit used by this page has been updated, click ‘Apply Changes’ to apply the latest changes.</p><p>Click Discard to keep your current page styles and detach the page from the Style Kit</p>"
+msgstr "<p>Le kit de style utilisé par cette page a été mis à jour, cliquez sur « Appliquer les modifications » pour appliquer les dernières modifications.</p><p>Cliquer sur Rejeter pour conserver vos styles de page actuels et détacher la page du kit de style</p>"
+
+#: inc/elementor/class-typography.php:1159
+msgid "Export"
+msgstr "Exporter"
+
+#: inc/elementor/kit/Kits_List_Table.php:359
+msgid "Import Now"
+msgstr "Importer maintenant"
+
+#: inc/elementor/class-ang-action.php:107
+#: inc/elementor/kit/views/trash-kit-confirmation.php:33
+msgid "Cancel"
+msgstr "Annuler"
+
+#: inc/elementor/kit/Kits_List_Table.php:151
+#: inc/elementor/kit/Kits_List_Table.php:366
+msgid "Global Style Kit"
+msgstr "Kit de style global"
+
+#: inc/api/class-local.php:498
+msgid "Please provide a valid post ID."
+msgstr "Veuillez fournir un ID de publication valide."
+
+#: inc/elementor/class-ang-action.php:106
+msgid "Save"
+msgstr "Enregistrer"
+
+#: inc/elementor/class-ang-action.php:112
+msgid "Style Kit Updated."
+msgstr "Kit de style mis à jour."
+
+#: inc/elementor/class-finder-shortcuts.php:47
+msgid "Templates Library"
+msgstr "Bibliothèque de modèles"
+
+#. translators: %s: Link to Style Kits documentation.
+#: inc/elementor/class-ang-action.php:119
+msgid "Take control of your design in the macro level, with local or global settings for typography and spacing. %s."
+msgstr "Prenez le contrôle de votre conception au niveau macro, avec des réglages locaux ou globaux pour la typographie et l’espacement. %s."
+
+#: inc/elementor/class-ang-action.php:123
+msgid "View Styles"
+msgstr "Voir les styles"
+
+#: inc/elementor/class-ang-action.php:114
+msgid "Update Style Kit"
+msgstr "Mettre à jour"
+
+#: inc/elementor/class-ang-action.php:125
+msgid "Export CSS"
+msgstr "Exporter les CSS"
+
+#: inc/elementor/class-ang-action.php:126
+msgid "Copy CSS"
+msgstr "Copier les CSS"
+
+#: inc/elementor/class-typography.php:241
+msgid "Recently Imported"
+msgstr "Importé récemment"
+
+#: inc/elementor/class-typography.php:344
+msgid "Text Sizes"
+msgstr "Tailles du texte"
+
+#: inc/api/class-local.php:502
+msgid "Invalid Post ID"
+msgstr "ID de publication non valide"
+
+#: inc/elementor/class-ang-action.php:104
+msgid "Are you sure?"
+msgstr "Confirmez-vous ?"
+
+#: inc/class-quick-edit.php:92 inc/class-quick-edit.php:146
+#: inc/elementor/class-post-type.php:33
+msgid "Style Kit"
+msgstr "Kit de style"
+
+#: inc/elementor/class-ang-action.php:109
+msgid "Insert Style Kit"
+msgstr "Insérer le kit de style"
+
+#: inc/elementor/class-ang-action.php:110
+#: inc/elementor/class-ang-action.php:113
+msgid "Please select a Style Kit first."
+msgstr "Veuillez sélectionner un kit de style d’abord."
+
+#: inc/elementor/class-ang-action.php:111
+msgid "— Select a Style Kit —"
+msgstr "— Choisir un kit de style —"
+
+#: inc/elementor/class-ang-action.php:115
+msgid "This action will update the Style Kit with the latest changes, and will affect all the pages that the style kit is used on. Do you wish to proceed?"
+msgstr "Cette action mettra à jour le kit de style avec les dernières modifications et affectera toutes les pages sur lesquelles le kit de style est utilisé. Voulez-vous continuer ?"
+
+#. translators: %s: Link text
+#: inc/class-onboarding.php:208 inc/elementor/class-ang-action.php:121
+#: inc/elementor/class-typography.php:1070
+#: inc/elementor/class-typography.php:1955
+#: inc/elementor/kit/Kits_List_Table.php:363
+#: inc/elementor/sections/background-color-classes.php:71
+#: inc/elementor/sections/background-color-classes.php:162
+#: inc/settings/class-settings-experiments.php:49
+#: inc/settings/class-settings-general.php:140 inc/upgrade-functions.php:182
+#: assets/js/app.js:27
+msgid "Learn more"
+msgstr "Lire la suite"
+
+#: inc/elementor/class-ang-action.php:124 inc/elementor/class-post-type.php:32
+#: inc/elementor/class-post-type.php:41 inc/elementor/class-typography.php:679
+#: inc/elementor/class-typography.php:1058
+#: inc/elementor/kit/tabs/Theme_Style_Kits.php:46 inc/register-settings.php:28
+msgid "Style Kits"
+msgstr "Kit de style"
+
+#: inc/elementor/class-post-type.php:34
+msgctxt "admin menu"
+msgid "Style Kits"
+msgstr "Kit de style"
+
+#: inc/elementor/class-post-type.php:35
+msgctxt "add new on admin bar"
+msgid "Style Kit"
+msgstr "Kit de style"
+
+#: inc/elementor/class-post-type.php:36
+msgctxt "book"
+msgid "Add New"
+msgstr "Nouveau"
+
+#: inc/elementor/class-post-type.php:37
+msgid "Add New Style Kit"
+msgstr "Ajouter un nouveau kit de style"
+
+#: inc/elementor/class-post-type.php:38
+msgid "New Style Kit"
+msgstr "Nouveau kit de style"
+
+#: inc/elementor/class-post-type.php:39
+msgid "Edit Style Kit"
+msgstr "Modifier le kit de style"
+
+#: inc/elementor/class-post-type.php:40
+msgid "View Style Kit"
+msgstr "Voir le kit de style"
+
+#: inc/elementor/class-post-type.php:42
+msgid "Search Style Kits"
+msgstr "Rechercher des kits de style"
+
+#: inc/elementor/class-post-type.php:43
+msgid "Parent Style Kits:"
+msgstr "Kit de style parent :"
+
+#: inc/elementor/class-post-type.php:44
+msgid "No Style Kit found."
+msgstr "Aucun kit de style trouvé."
+
+#: inc/elementor/class-post-type.php:45
+msgid "No Style Kit found in Trash."
+msgstr "Aucun kit de style trouvé dans la corbeille."
+
+#: inc/elementor/class-typography.php:293
+msgid "Heading Sizes"
+msgstr "Tailles du titrage"
+
+#: inc/elementor/class-typography.php:1093
+msgid "Page Style Kit"
+msgstr "Kit de style"
+
+#: inc/elementor/class-typography.php:760
+msgid "Default Padding"
+msgstr "Par défaut"
+
+#: inc/register-settings.php:39
+msgid "Library"
+msgstr "Bibliothèque"
+
+#: inc/Core/SVGs/Allow.php:174 inc/elementor/class-typography.php:310
+#: inc/elementor/class-typography.php:361
+#: inc/elementor/class-typography.php:709
+#: inc/elementor/class-typography.php:1208
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/class-cron.php:41
+msgid "Once Weekly"
+msgstr "Une fois par semaine"
+
+#: inc/elementor/class-finder-shortcuts.php:53 inc/Plugin.php:216
+#: inc/register-settings.php:47
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/elementor/class-typography.php:311
+#: inc/elementor/class-typography.php:362
+#: inc/elementor/class-typography.php:708
+#: inc/elementor/class-typography.php:1207
+msgid "Small"
+msgstr "Petit"
+
+#: inc/elementor/class-typography.php:308
+#: inc/elementor/class-typography.php:359
+#: inc/elementor/class-typography.php:867
+msgid "XL"
+msgstr "XL"
+
+#: inc/elementor/class-typography.php:307
+#: inc/elementor/class-typography.php:358
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/settings/class-settings-misc.php:42
+msgid "Usage Data Tracking"
+msgstr "Suivi de données d’utilisation"
+
+#: inc/elementor/class-typography.php:173
+msgid "Headings Typography"
+msgstr "Typographies du titrage"
+
+#: inc/elementor/class-typography.php:181
+msgid "These settings apply to all Headings in your layout. You can still override individual values at each element."
+msgstr "Ces réglages s’appliquent à tous les titrages de votre mise en page. Vous pouvez toujours remplacer des valeurs individuelles pour chaque balise de titre."
+
+#. translators: %s: Heading 1-6 type
+#: inc/elementor/class-typography.php:205
+msgid "Heading %s"
+msgstr "Titrage %s"
+
+#: inc/elementor/class-typography.php:233
+#: inc/elementor/class-typography.php:255
+msgid "Body Typography"
+msgstr "Typographie du corps"
+
+#: inc/elementor/class-typography.php:763
+msgid "Wide Padding"
+msgstr "Large"
+
+#: inc/elementor/class-typography.php:764
+msgid "Wider Padding"
+msgstr "Plus large"
+
+#: inc/elementor/class-typography.php:770
+msgid "Column Gaps"
+msgstr "Espacement des colonnes"
+
+#: inc/Core/SVGs/Allow.php:175 inc/elementor/class-typography.php:309
+#: inc/elementor/class-typography.php:360
+#: inc/elementor/class-typography.php:710
+#: inc/elementor/class-typography.php:1209
+msgid "Large"
+msgstr "Grande"
+
+#: inc/elementor/class-typography.php:761
+msgid "Narrow Padding"
+msgstr "Marges internes étroites"
+
+#: inc/elementor/class-typography.php:762
+msgid "Extended Padding"
+msgstr "Étendre les marges internes"
+
+#: inc/settings/class-settings-misc.php:48
+msgid "More Info"
+msgstr "Plus d’Infos"
+
+#: analogwp-templates.php:167
+msgid "Activate Elementor Now"
+msgstr "Activer Elementor maintenant"
+
+#. Author of the plugin
+#: analogwp-templates.php
+msgid "AnalogWP"
+msgstr "AnalogWP"
+
+#: analogwp-templates.php:175
+msgid "Install Elementor Now"
+msgstr "Installer Elementor maintenant"
+
+#: inc/elementor/Promotions.php:199
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/api/class-local.php:392
+msgid "Setting updated."
+msgstr "Réglage mis à jour."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: analogwp-templates.php
+msgid "https://analogwp.com/"
+msgstr "https://analogwp.com/"
+
+#: inc/class-base.php:39 inc/class-base.php:49
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: inc/elementor/kit/Instance_List_Table.php:381
+msgid "Filter"
+msgstr "Filtre"

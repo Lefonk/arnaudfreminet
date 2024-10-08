@@ -1,0 +1,1181 @@
+# Copyright (C) 2024 AnalogWP
+# This file is distributed under the same license as the Style Kits Pro plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Style Kits Pro 2.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/style-kits-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-19T08:16:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ang-pro\n"
+
+#. Plugin Name of the plugin
+#. translators: Plugin Name of the plugin
+#: languages/ang-pro-translations.php:10
+#: plugin.php:258
+msgid "Style Kits Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#. translators: Plugin URI of the plugin Author URI of the plugin
+#: languages/ang-pro-translations.php:14
+msgid "https://analogwp.com/"
+msgstr ""
+
+#. Description of the plugin
+#. translators: Description of the plugin
+#: languages/ang-pro-translations.php:17
+msgid "Get an unfair design advantage in Elementor with even deeper global design control, and unlimited access to a library of theme-style-ready template kits, blocks and theme style presets for Elementor."
+msgstr ""
+
+#. Author of the plugin
+#. translators: Author of the plugin
+#: languages/ang-pro-translations.php:20
+msgid "AnalogWP"
+msgstr ""
+
+#: inc/class-licensemanager.php:68
+#: languages/ang-pro-translations.php:23
+msgid "Plugin License"
+msgstr ""
+
+#: inc/class-licensemanager.php:69
+#: languages/ang-pro-translations.php:26
+msgid "Enter your plugin license key received upon purchase from <a target=\"_blank\" href=\"https://analogwp.com/account/\">AnalogWP</a>."
+msgstr ""
+
+#: inc/class-licensemanager.php:73
+#: languages/ang-pro-translations.php:29
+msgid "License Key"
+msgstr ""
+
+#: inc/class-licensemanager.php:74
+#: languages/ang-pro-translations.php:32
+msgid "License Action"
+msgstr ""
+
+#: inc/class-licensemanager.php:75
+#: languages/ang-pro-translations.php:35
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/class-licensemanager.php:76
+#: languages/ang-pro-translations.php:38
+msgid "Activate License"
+msgstr ""
+
+#: inc/class-licensemanager.php:77
+#: inc/class-licensemanager.php:96
+#: languages/ang-pro-translations.php:42
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/class-licensemanager.php:78
+#: inc/settings/license.php:191
+#: languages/ang-pro-translations.php:46
+msgid "Renew"
+msgstr ""
+
+#: inc/class-licensemanager.php:79
+#: languages/ang-pro-translations.php:49
+msgid "unlimited"
+msgstr ""
+
+#: inc/class-licensemanager.php:80
+#: languages/ang-pro-translations.php:52
+msgid "License key is active."
+msgstr ""
+
+#. translators: %s: expiration date
+#. translators: translators: %s: expiration date
+#: inc/class-licensemanager.php:82
+#: languages/ang-pro-translations.php:56
+msgid "Expires %s."
+msgstr ""
+
+#: inc/class-licensemanager.php:83
+#: languages/ang-pro-translations.php:59
+msgid "Lifetime License."
+msgstr ""
+
+#. translators: %1$s: active sites, %2$s: sites limit
+#. translators: translators: %1$s: active sites, %2$s: sites limit
+#: inc/class-licensemanager.php:85
+#: languages/ang-pro-translations.php:63
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#. translators: %s: product name
+#. translators: translators: %s: product name
+#: inc/class-licensemanager.php:87
+#: languages/ang-pro-translations.php:67
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/class-licensemanager.php:88
+#: languages/ang-pro-translations.php:70
+msgid "License key has expired."
+msgstr ""
+
+#: inc/class-licensemanager.php:89
+#: languages/ang-pro-translations.php:73
+msgid "License keys do not match. <br> Enter your plugin license key received upon purchase from <a target=\"_blank\" href=\"https://analogwp.com/account/\">AnalogWP</a>."
+msgstr ""
+
+#: inc/class-licensemanager.php:93
+#: languages/ang-pro-translations.php:76
+msgid "License is inactive."
+msgstr ""
+
+#: inc/class-licensemanager.php:94
+#: languages/ang-pro-translations.php:79
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/class-licensemanager.php:95
+#: languages/ang-pro-translations.php:82
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/class-licensemanager.php:186
+#: inc/updater/EDD_SL_Plugin_Updater.php:487
+#: languages/ang-pro-translations.php:86
+msgid "Error"
+msgstr ""
+
+#: inc/class-licensemanager.php:398
+#: inc/class-licensemanager.php:441
+#: inc/class-licensemanager.php:506
+#: languages/ang-pro-translations.php:91
+msgid "An error occurred, please try again."
+msgstr ""
+
+#. translators: %s: expiration date
+#. translators: translators: %s: expiration date
+#: inc/class-licensemanager.php:413
+#: languages/ang-pro-translations.php:95
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: inc/class-licensemanager.php:419
+#: languages/ang-pro-translations.php:98
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: inc/class-licensemanager.php:423
+#: languages/ang-pro-translations.php:101
+msgid "Invalid license."
+msgstr ""
+
+#: inc/class-licensemanager.php:428
+#: languages/ang-pro-translations.php:104
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#. translators: %s: site name/email
+#. translators: translators: %s: site name/email
+#: inc/class-licensemanager.php:433
+#: languages/ang-pro-translations.php:108
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: inc/class-licensemanager.php:437
+#: languages/ang-pro-translations.php:111
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: inc/class-licensemanager.php:524
+#: languages/ang-pro-translations.php:114
+msgid "License Removed"
+msgstr ""
+
+#: inc/elementor/Elementor.php:54
+#: languages/ang-pro-translations.php:117
+msgid "Style Kits"
+msgstr ""
+
+#: inc/elementor/Elementor.php:78
+#: languages/ang-pro-translations.php:120
+msgid "This action will reset inline styles on all elements, including widgets, sections, and columns."
+msgstr ""
+
+#: inc/elementor/Elementor.php:79
+#: languages/ang-pro-translations.php:123
+msgid "This action will reset colors and typography customizations on all elements."
+msgstr ""
+
+#: inc/elementor/Elementor.php:80
+#: languages/ang-pro-translations.php:126
+msgid "Reset Colors and Typography"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:41
+#: inc/elementor/tags/Kit_Colors_Tag.php:98
+#: languages/ang-pro-translations.php:130
+msgid "Accent"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:48
+#: languages/ang-pro-translations.php:133
+msgid "Add the class <strong>sk-accent-bg</strong> to a section or column to apply these colors."
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:56
+#: inc/elementor/sections/global-form.php:420
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:487
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:535
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:661
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:861
+#: languages/ang-pro-translations.php:141
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:70
+#: inc/elementor/sections/global-form.php:409
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:649
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:849
+#: languages/ang-pro-translations.php:147
+msgid "Text Color"
+msgstr ""
+
+#: inc/elementor/sections/background-color-classes.php:85
+#: languages/ang-pro-translations.php:150
+msgid "Headings Color"
+msgstr ""
+
+#: inc/elementor/sections/custom-container-spacing.php:93
+#: languages/ang-pro-translations.php:153
+msgid "Custom Presets (Deprecated)"
+msgstr ""
+
+#: inc/elementor/sections/custom-container-spacing.php:125
+#: inc/elementor/sections/global-shadows.php:63
+#: languages/ang-pro-translations.php:157
+msgid "9-16"
+msgstr ""
+
+#. translators: %d: style key.
+#. translators: translators: %d: style key.
+#: inc/elementor/sections/custom-container-spacing.php:134
+#: inc/elementor/sections/custom-container-spacing.php:169
+#: languages/ang-pro-translations.php:162
+msgid "Padding %d"
+msgstr ""
+
+#: inc/elementor/sections/custom-container-spacing.php:160
+#: inc/elementor/sections/global-shadows.php:101
+#: languages/ang-pro-translations.php:166
+msgid "17-24"
+msgstr ""
+
+#: inc/elementor/sections/global-colors.php:45
+#: inc/elementor/sections/global-fonts.php:45
+#: languages/ang-pro-translations.php:170
+msgid "17-32"
+msgstr ""
+
+#. translators: %d: style key.
+#. translators: translators: %d: style key.
+#: inc/elementor/sections/global-colors.php:55
+#: inc/elementor/sections/global-colors.php:85
+#: inc/elementor/sections/global-colors.php:122
+#: inc/elementor/sections/global-colors.php:152
+#: languages/ang-pro-translations.php:177
+msgid "Color Style %d"
+msgstr ""
+
+#: inc/elementor/sections/global-colors.php:112
+#: inc/elementor/sections/global-fonts.php:109
+#: languages/ang-pro-translations.php:181
+msgid "33-48"
+msgstr ""
+
+#. translators: %d: style key.
+#. translators: translators: %d: style key.
+#: inc/elementor/sections/global-fonts.php:55
+#: inc/elementor/sections/global-fonts.php:83
+#: inc/elementor/sections/global-fonts.php:119
+#: inc/elementor/sections/global-fonts.php:147
+#: languages/ang-pro-translations.php:188
+msgid "Font Style %d"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:54
+#: inc/settings/manage-sk-panels.php:77
+#: languages/ang-pro-translations.php:192
+msgid "Elementor Forms"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:64
+#: languages/ang-pro-translations.php:195
+msgid "Gaps"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:74
+#: inc/elementor/sections/global-form.php:139
+#: inc/elementor/sections/global-form.php:198
+#: languages/ang-pro-translations.php:200
+msgid "These controls apply globally, and are not specific to input sizes."
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:75
+#: inc/elementor/sections/global-form.php:140
+#: inc/elementor/sections/global-form.php:199
+#: inc/settings/manage-sk-panels.php:57
+#: inc/settings/role-manager.php:52
+#: languages/ang-pro-translations.php:207
+msgid "Learn more"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:84
+#: languages/ang-pro-translations.php:210
+msgid "Columns Gap"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:105
+#: languages/ang-pro-translations.php:213
+msgid "Rows Gap"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:129
+#: languages/ang-pro-translations.php:216
+msgid "Labels"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:149
+#: languages/ang-pro-translations.php:219
+msgid "Spacing"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:174
+#: languages/ang-pro-translations.php:222
+msgid "Mark Color"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:188
+#: languages/ang-pro-translations.php:225
+msgid "Messages"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:219
+#: languages/ang-pro-translations.php:228
+msgid "Success Message Color"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:230
+#: languages/ang-pro-translations.php:231
+msgid "Error Message Color"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:241
+#: languages/ang-pro-translations.php:234
+msgid "Inline Message Color"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:271
+#: languages/ang-pro-translations.php:237
+msgid "Field Sizes"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:282
+#: languages/ang-pro-translations.php:240
+msgid "Customize the styling of each of the five form field size presets."
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:287
+#: languages/ang-pro-translations.php:243
+msgid "XS"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:288
+#: languages/ang-pro-translations.php:246
+msgid "S"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:289
+#: languages/ang-pro-translations.php:249
+msgid "M"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:290
+#: languages/ang-pro-translations.php:252
+msgid "L"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:291
+#: languages/ang-pro-translations.php:255
+msgid "XL"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:324
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:363
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:673
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:873
+#: languages/ang-pro-translations.php:261
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:338
+#: languages/ang-pro-translations.php:264
+msgid "Fields"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:345
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:583
+#: languages/ang-pro-translations.php:268
+msgid "Typography"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:355
+#: languages/ang-pro-translations.php:271
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:366
+#: languages/ang-pro-translations.php:274
+msgid "Focus"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:376
+#: languages/ang-pro-translations.php:277
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/elementor/sections/global-form.php:447
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:455
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:718
+#: languages/ang-pro-translations.php:282
+msgid "Border Radius"
+msgstr ""
+
+#. translators: %d: style key.
+#. translators: translators: %d: style key.
+#: inc/elementor/sections/global-shadows.php:74
+#: inc/elementor/sections/global-shadows.php:112
+#: languages/ang-pro-translations.php:287
+msgid "Shadow %d"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:23
+#: languages/ang-pro-translations.php:290
+msgid "Layout Tools"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:31
+#: languages/ang-pro-translations.php:293
+msgid "Reset All Styles"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:33
+#: inc/elementor/sections/page-tools.php:44
+#: languages/ang-pro-translations.php:297
+msgid "Reset"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:34
+#: languages/ang-pro-translations.php:300
+msgid "This will reset customs styles from each element on the page."
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:42
+#: languages/ang-pro-translations.php:303
+msgid "Reset Color And Typography"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:46
+#: languages/ang-pro-translations.php:306
+msgid "All elements styles with Color and Typography will be removed."
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:54
+#: languages/ang-pro-translations.php:309
+msgid "Highlight Elements with Classes"
+msgstr ""
+
+#: inc/elementor/sections/page-tools.php:62
+#: languages/ang-pro-translations.php:312
+msgid "Highlight Elements with Custom CSS"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:51
+#: languages/ang-pro-translations.php:725
+msgctxt "Section Title"
+msgid "Shortcuts"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:59
+#: languages/ang-pro-translations.php:315
+msgid "Keyboard shortcuts for helper functions."
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:68
+#: languages/ang-pro-translations.php:318
+msgid "Custom Classes"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:76
+#: languages/ang-pro-translations.php:321
+msgid "CMD/CTRL + SHIFT + 2"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:85
+#: inc/elementor/sections/shortcuts.php:126
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:511
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:559
+#: languages/ang-pro-translations.php:327
+msgid "Border Color"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:97
+#: languages/ang-pro-translations.php:330
+msgid "Class Labels Color"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:109
+#: languages/ang-pro-translations.php:333
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/elementor/sections/shortcuts.php:117
+#: languages/ang-pro-translations.php:336
+msgid "CMD/CTRL + SHIFT + 1"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:52
+#: inc/settings/manage-sk-panels.php:73
+#: languages/ang-pro-translations.php:340
+msgid "Style Kit Colors"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:87
+#: languages/ang-pro-translations.php:343
+msgid "Accent Colors"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:89
+#: languages/ang-pro-translations.php:346
+msgid "Primary"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:90
+#: languages/ang-pro-translations.php:349
+msgid "Secondary"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:94
+#: languages/ang-pro-translations.php:352
+msgid "Background Colors"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:96
+#: languages/ang-pro-translations.php:355
+msgid "Light"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:97
+#: languages/ang-pro-translations.php:358
+msgid "Dark"
+msgstr ""
+
+#: inc/elementor/tags/Kit_Colors_Tag.php:106
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:750
+#: languages/ang-pro-translations.php:362
+msgid "Color"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:181
+#: languages/ang-pro-translations.php:365
+msgid "SK - Style Switcher"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:219
+#: languages/ang-pro-translations.php:368
+msgid "Switcher"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:226
+#: languages/ang-pro-translations.php:371
+msgid "Switcher Style"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:228
+#: languages/ang-pro-translations.php:374
+msgid "The Toggle switcher would allow you to switch between two Style Kits. Useful for Dark / Night mode."
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:228
+#: languages/ang-pro-translations.php:377
+msgid "Learn more."
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:231
+#: languages/ang-pro-translations.php:380
+msgid "Toggle"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:232
+#: languages/ang-pro-translations.php:383
+msgid "Dropdown"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:240
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:267
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:301
+#: languages/ang-pro-translations.php:388
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:257
+#: languages/ang-pro-translations.php:391
+msgid "Toggle A - Default"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:280
+#: languages/ang-pro-translations.php:394
+msgid "Please note!"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:280
+#: languages/ang-pro-translations.php:397
+msgid "Toggle A uses active Style Kit by default. You may choose a different Kit in Toggle B."
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:291
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:524
+#: languages/ang-pro-translations.php:401
+msgid "Toggle B"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:314
+#: languages/ang-pro-translations.php:404
+msgid "Style Kit"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:326
+#: languages/ang-pro-translations.php:407
+msgid "Style Kits Dropdown"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:336
+#: languages/ang-pro-translations.php:410
+msgid "Select Style Kits to display in dropdown"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:352
+#: languages/ang-pro-translations.php:413
+msgid "Toggle Container"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:382
+#: languages/ang-pro-translations.php:416
+msgid "Icon Size"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:420
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:783
+#: languages/ang-pro-translations.php:420
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:424
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:896
+#: languages/ang-pro-translations.php:424
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:428
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:900
+#: languages/ang-pro-translations.php:428
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:432
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:904
+#: languages/ang-pro-translations.php:432
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:476
+#: languages/ang-pro-translations.php:435
+msgid "Toggle A"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:499
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:547
+#: languages/ang-pro-translations.php:439
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:572
+#: languages/ang-pro-translations.php:442
+msgid "Dropdown Style"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:592
+#: languages/ang-pro-translations.php:445
+msgid "Width"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:596
+#: languages/ang-pro-translations.php:448
+msgid "Full Width"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:597
+#: languages/ang-pro-translations.php:451
+msgid "Inline"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:598
+#: languages/ang-pro-translations.php:454
+msgid "Custom"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:612
+#: languages/ang-pro-translations.php:457
+msgid "Custom Width"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:739
+#: languages/ang-pro-translations.php:460
+msgid "Dropdown Icon"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:766
+#: languages/ang-pro-translations.php:463
+msgid "Size"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:787
+#: languages/ang-pro-translations.php:466
+msgid "Top"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:791
+#: languages/ang-pro-translations.php:469
+msgid "Middle"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:795
+#: languages/ang-pro-translations.php:472
+msgid "Bottom"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:814
+#: languages/ang-pro-translations.php:475
+msgid "Rotate"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:838
+#: languages/ang-pro-translations.php:478
+msgid "Dropdown List"
+msgstr ""
+
+#: inc/elementor/widgets/kit-switcher/kit-switcher.php:892
+#: languages/ang-pro-translations.php:481
+msgid "Position"
+msgstr ""
+
+#: inc/settings/experiments.php:37
+#: languages/ang-pro-translations.php:484
+msgid "Active"
+msgstr ""
+
+#: inc/settings/experiments.php:38
+#: languages/ang-pro-translations.php:487
+msgid "Inactive"
+msgstr ""
+
+#: inc/settings/license.php:36
+#: inc/settings/license.php:106
+#: languages/ang-pro-translations.php:491
+msgid "License"
+msgstr ""
+
+#: inc/settings/license.php:69
+#: languages/ang-pro-translations.php:494
+msgid "Yes"
+msgstr ""
+
+#: inc/settings/license.php:69
+#: languages/ang-pro-translations.php:497
+msgid "No"
+msgstr ""
+
+#: inc/settings/license.php:74
+#: languages/ang-pro-translations.php:500
+msgid "Status"
+msgstr ""
+
+#. translators: %s: link to account page.
+#. translators: translators: %s: link to account page.
+#: inc/settings/license.php:110
+#: languages/ang-pro-translations.php:504
+msgid "To get Style Kits Pro updates, please enter your license key below. You can find your license key in your %s at AnalogWP."
+msgstr ""
+
+#: inc/settings/license.php:111
+#: languages/ang-pro-translations.php:507
+msgid "account page"
+msgstr ""
+
+#: inc/settings/license.php:128
+#: languages/ang-pro-translations.php:510
+msgid "Update Information"
+msgstr ""
+
+#: inc/settings/license.php:133
+#: languages/ang-pro-translations.php:513
+msgid "Current Version"
+msgstr ""
+
+#: inc/settings/license.php:140
+#: languages/ang-pro-translations.php:516
+msgid "Latest Version"
+msgstr ""
+
+#: inc/settings/license.php:147
+#: languages/ang-pro-translations.php:519
+msgid "Update Available"
+msgstr ""
+
+#: inc/settings/license.php:152
+#: languages/ang-pro-translations.php:522
+msgid "Check Again"
+msgstr ""
+
+#: inc/settings/license.php:179
+#: languages/ang-pro-translations.php:525
+msgid "Your Style Kits Pro License is not activated yet."
+msgstr ""
+
+#: inc/settings/license.php:181
+#: languages/ang-pro-translations.php:528
+msgid "Activate"
+msgstr ""
+
+#: inc/settings/license.php:182
+#: languages/ang-pro-translations.php:531
+msgid "your Style Kits PRO license for plugin updates and unlimited access to PRO features and patterns."
+msgstr ""
+
+#: inc/settings/license.php:189
+#: languages/ang-pro-translations.php:534
+msgid "Your Style Kits Pro License has expired."
+msgstr ""
+
+#: inc/settings/license.php:192
+#: languages/ang-pro-translations.php:537
+msgid "to continue having access to plugin updates and unlimited access to PRO features and patterns."
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:37
+#: languages/ang-pro-translations.php:540
+msgid "Deactivate SK Panels"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:53
+#: languages/ang-pro-translations.php:543
+msgid "Deactivate Style Kits panels"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:56
+#: languages/ang-pro-translations.php:546
+msgid "Below you can manage the visibility of each Style Kits panel individually. Any existing values in a disabled Style Kit panel will lose its values."
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:74
+#: languages/ang-pro-translations.php:549
+msgid "Style Kit Fonts"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:75
+#: languages/ang-pro-translations.php:552
+msgid "Background Color Classes"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:76
+#: languages/ang-pro-translations.php:555
+msgid "Typographic Sizes"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:78
+#: languages/ang-pro-translations.php:558
+msgid "Shadows"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:79
+#: languages/ang-pro-translations.php:561
+msgid "Container Spacing"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:80
+#: languages/ang-pro-translations.php:564
+msgid "Manage Style Kit"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:82
+#: languages/ang-pro-translations.php:567
+msgid "Button Sizes (Legacy)"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:83
+#: languages/ang-pro-translations.php:570
+msgid "Column Gaps (Legacy)"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:84
+#: languages/ang-pro-translations.php:573
+msgid "Outer Section Padding (Legacy)"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:85
+#: languages/ang-pro-translations.php:576
+msgid "Accent Colors (Legacy)"
+msgstr ""
+
+#: inc/settings/manage-sk-panels.php:94
+#: languages/ang-pro-translations.php:579
+msgid "If you are looking to hide Style Kits for your clients, you can also make use of the %1$sUser Roles Management%2$s."
+msgstr ""
+
+#: inc/settings/role-manager.php:29
+#: inc/settings/role-manager.php:72
+#: inc/settings/role-manager.php:100
+#: languages/ang-pro-translations.php:584
+msgid "User Roles"
+msgstr ""
+
+#: inc/settings/role-manager.php:48
+#: languages/ang-pro-translations.php:587
+msgid "User Roles Management"
+msgstr ""
+
+#: inc/settings/role-manager.php:51
+#: languages/ang-pro-translations.php:590
+msgid "Disable Style Kits  functionality for specific user roles."
+msgstr ""
+
+#: inc/settings/role-manager.php:59
+#: languages/ang-pro-translations.php:593
+msgid "WordPress Admin Dashboard"
+msgstr ""
+
+#: inc/settings/role-manager.php:66
+#: languages/ang-pro-translations.php:596
+msgid "Selected user roles will not be able to import templates from the wp-admin Dashboard, or find any reference to Style Kits."
+msgstr ""
+
+#: inc/settings/role-manager.php:87
+#: languages/ang-pro-translations.php:599
+msgid "Elementor Editor"
+msgstr ""
+
+#: inc/settings/role-manager.php:94
+#: languages/ang-pro-translations.php:602
+msgid "Selected user roles will not be able to import templates from Elementor editor or have access to Style Kits settings and controls."
+msgstr ""
+
+#: inc/settings/settings-helpers.php:93
+#: languages/ang-pro-translations.php:605
+msgid "Sorry, you are not allowed to rollback Style Kits Pro plugin for this site."
+msgstr ""
+
+#: inc/settings/settings-helpers.php:99
+#: languages/ang-pro-translations.php:608
+msgid "Error occurred, the version selected is invalid. Try selecting different version."
+msgstr ""
+
+#: inc/settings/settings-helpers.php:104
+#: languages/ang-pro-translations.php:611
+msgid "Error occurred! Please set a license key first."
+msgstr ""
+
+#: inc/settings/settings-helpers.php:154
+#: languages/ang-pro-translations.php:614
+msgid "Rollback to Previous Version"
+msgstr ""
+
+#: inc/settings/version-control.php:40
+#: languages/ang-pro-translations.php:617
+msgid "Rollback Style Kits Pro"
+msgstr ""
+
+#: inc/settings/version-control.php:52
+#: languages/ang-pro-translations.php:620
+msgid "Reinstall this version"
+msgstr ""
+
+#: inc/updater/EDD_SL_Plugin_Updater.php:236
+#: languages/ang-pro-translations.php:623
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: inc/updater/EDD_SL_Plugin_Updater.php:244
+#: languages/ang-pro-translations.php:626
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: inc/updater/EDD_SL_Plugin_Updater.php:487
+#: languages/ang-pro-translations.php:629
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: languages/ang-pro-translations.php:632
+#: modules/unsplash/includes/core/init.php:138
+msgid "Unable to download image to server, please check your server permissions."
+msgstr ""
+
+#: languages/ang-pro-translations.php:635
+#: modules/unsplash/includes/core/init.php:139
+msgid "Downloading..."
+msgstr ""
+
+#: languages/ang-pro-translations.php:638
+#: modules/unsplash/includes/core/init.php:140
+msgid "Resizing..."
+msgstr ""
+
+#: languages/ang-pro-translations.php:641
+#: modules/unsplash/includes/core/init.php:141
+msgid "Done"
+msgstr ""
+
+#: languages/ang-pro-translations.php:644
+#: modules/unsplash/includes/core/settings.php:42
+msgid "Unsplash"
+msgstr ""
+
+#: languages/ang-pro-translations.php:647
+#: modules/unsplash/includes/core/settings.php:62
+msgid "Unsplash API Key"
+msgstr ""
+
+#: languages/ang-pro-translations.php:650
+#: modules/unsplash/includes/core/settings.php:63
+msgid "You can use a custom Unsplash API key of your own in case of higher request limits/out of request limits. "
+msgstr ""
+
+#: languages/ang-pro-translations.php:654
+#: modules/unsplash/includes/core/settings.php:63
+#: modules/unsplash/includes/core/settings.php:71
+msgid "More Info"
+msgstr ""
+
+#: languages/ang-pro-translations.php:657
+#: modules/unsplash/includes/core/settings.php:70
+msgid "Default Username"
+msgstr ""
+
+#: languages/ang-pro-translations.php:660
+#: modules/unsplash/includes/core/settings.php:71
+msgid "You can set a default username here for Unsplash collections. If this is not set, the default collections data will be from AnalogWP's profile. &nbsp;"
+msgstr ""
+
+#: languages/ang-pro-translations.php:663
+#: modules/unsplash/includes/core/settings.php:86
+msgid "Enable Unsplash"
+msgstr ""
+
+#: languages/ang-pro-translations.php:666
+#: modules/unsplash/includes/core/settings.php:87
+msgid "Activate or de-activate the Unsplash Collections library."
+msgstr ""
+
+#: languages/ang-pro-translations.php:669
+#: modules/unsplash/includes/endpoint/base.php:132
+msgid "Unable to save image, check your server permissions of `uploads/ang-up`"
+msgstr ""
+
+#: languages/ang-pro-translations.php:672
+#: modules/unsplash/includes/endpoint/base.php:150
+msgid "An issue occurred retrieving image info via the REST API."
+msgstr ""
+
+#: languages/ang-pro-translations.php:675
+#: modules/unsplash/includes/endpoint/base.php:173
+msgid "Image successfully uploaded to server."
+msgstr ""
+
+#: languages/ang-pro-translations.php:678
+#: modules/unsplash/includes/endpoint/base.php:181
+msgid "Uploaded image not found, please ensure you have proper permissions set on the uploads directory."
+msgstr ""
+
+#: languages/ang-pro-translations.php:681
+#: modules/unsplash/includes/endpoint/base.php:190
+msgid "Unable to download image to server, please check the server permissions of the ang-up folder in your WP uploads directory."
+msgstr ""
+
+#: languages/ang-pro-translations.php:684
+#: modules/unsplash/includes/endpoint/base.php:200
+msgid "The core PHP copy() function is not available on your server. Please contact your server administrator to upgrade your PHP version."
+msgstr ""
+
+#: languages/ang-pro-translations.php:687
+#: modules/unsplash/includes/endpoint/base.php:262
+msgid "Unable to copy image to the media library. Please check your server permissions."
+msgstr ""
+
+#: languages/ang-pro-translations.php:690
+#: modules/unsplash/includes/endpoint/base.php:290
+msgid "Image successfully uploaded to your media library!"
+msgstr ""
+
+#: languages/ang-pro-translations.php:693
+#: modules/unsplash/includes/endpoint/base.php:301
+msgid "There was an error sending the image to your media library. Please check your server permissions and confirm the upload_max_filesize setting (php.ini) is large enough for the downloaded image (8mb minimum is recommended)."
+msgstr ""
+
+#: languages/ang-pro-translations.php:696
+#: modules/unsplash/includes/endpoint/base.php:319
+msgid "There was an error resizing the image, please try again."
+msgstr ""
+
+#: languages/ang-pro-translations.php:700
+#: plugin.php:31
+#: plugin.php:42
+msgid "Something went wrong."
+msgstr ""
+
+#: languages/ang-pro-translations.php:703
+#: style-kits-pro.php:70
+msgid "Style Kits Pro is not working because you need to activate the Style Kits for Elementor plugin."
+msgstr ""
+
+#: languages/ang-pro-translations.php:706
+#: style-kits-pro.php:71
+msgid "Activate Style Kits for Elementor Now"
+msgstr ""
+
+#: languages/ang-pro-translations.php:709
+#: style-kits-pro.php:79
+msgid "Style Kits Pro is not working because you need to install the Style Kits for Elementor plugin."
+msgstr ""
+
+#: languages/ang-pro-translations.php:712
+#: style-kits-pro.php:80
+msgid "Install Style Kits for Elementor Now"
+msgstr ""
+
+#: languages/ang-pro-translations.php:715
+#: style-kits-pro.php:94
+msgid "Style Kits Pro is not working because you are using an old version of Style Kits for Elementor."
+msgstr ""
+
+#: languages/ang-pro-translations.php:719
+#: style-kits-pro.php:95
+#: style-kits-pro.php:109
+msgid "Update Style Kits for Elementor Now"
+msgstr ""
+
+#: languages/ang-pro-translations.php:722
+#: style-kits-pro.php:108
+msgid "A new version of Style Kits for Elementor is available. For better performance and compatibility of Style Kits Pro, we recommend updating to the latest version."
+msgstr ""

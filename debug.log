@@ -1,0 +1,458 @@
+[08-Oct-2024 12:44:31 UTC] Tags retrieved: Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 20
+            [name] => Crayons pastel
+            [slug] => crayons-pastel
+            [term_group] => 0
+            [term_taxonomy_id] => 20
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 23
+            [name] => Desseins
+            [slug] => desseins
+            [term_group] => 0
+            [term_taxonomy_id] => 23
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 2
+            [name] => Disponible
+            [slug] => disponible
+            [term_group] => 0
+            [term_taxonomy_id] => 2
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 3
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Frais
+            [slug] => frais
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [4] => WP_Term Object
+        (
+            [term_id] => 15
+            [name] => Huile
+            [slug] => huile
+            [term_group] => 0
+            [term_taxonomy_id] => 15
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [5] => WP_Term Object
+        (
+            [term_id] => 3
+            [name] => Vendu
+            [slug] => vendu
+            [term_group] => 0
+            [term_taxonomy_id] => 3
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [6] => WP_Term Object
+        (
+            [term_id] => 22
+            [name] => Vénerie
+            [slug] => venerie
+            [term_group] => 0
+            [term_taxonomy_id] => 22
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[08-Oct-2024 12:52:07 UTC] Tags retrieved: Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 20
+            [name] => Crayons pastel
+            [slug] => crayons-pastel
+            [term_group] => 0
+            [term_taxonomy_id] => 20
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 23
+            [name] => Desseins
+            [slug] => desseins
+            [term_group] => 0
+            [term_taxonomy_id] => 23
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 2
+            [name] => Disponible
+            [slug] => disponible
+            [term_group] => 0
+            [term_taxonomy_id] => 2
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 3
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Frais
+            [slug] => frais
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [4] => WP_Term Object
+        (
+            [term_id] => 15
+            [name] => Huile
+            [slug] => huile
+            [term_group] => 0
+            [term_taxonomy_id] => 15
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [5] => WP_Term Object
+        (
+            [term_id] => 3
+            [name] => Vendu
+            [slug] => vendu
+            [term_group] => 0
+            [term_taxonomy_id] => 3
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [6] => WP_Term Object
+        (
+            [term_id] => 22
+            [name] => Vénerie
+            [slug] => venerie
+            [term_group] => 0
+            [term_taxonomy_id] => 22
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[08-Oct-2024 12:52:07 UTC] Tags for modal: Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Frais
+            [slug] => frais
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 15
+            [name] => Huile
+            [slug] => huile
+            [term_group] => 0
+            [term_taxonomy_id] => 15
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 3
+            [name] => Vendu
+            [slug] => vendu
+            [term_group] => 0
+            [term_taxonomy_id] => 3
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+)
+
+[08-Oct-2024 12:53:24 UTC] Tags retrieved: Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 20
+            [name] => Crayons pastel
+            [slug] => crayons-pastel
+            [term_group] => 0
+            [term_taxonomy_id] => 20
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 23
+            [name] => Desseins
+            [slug] => desseins
+            [term_group] => 0
+            [term_taxonomy_id] => 23
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 2
+            [name] => Disponible
+            [slug] => disponible
+            [term_group] => 0
+            [term_taxonomy_id] => 2
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 3
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Frais
+            [slug] => frais
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [4] => WP_Term Object
+        (
+            [term_id] => 15
+            [name] => Huile
+            [slug] => huile
+            [term_group] => 0
+            [term_taxonomy_id] => 15
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [5] => WP_Term Object
+        (
+            [term_id] => 3
+            [name] => Vendu
+            [slug] => vendu
+            [term_group] => 0
+            [term_taxonomy_id] => 3
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [6] => WP_Term Object
+        (
+            [term_id] => 22
+            [name] => Vénerie
+            [slug] => venerie
+            [term_group] => 0
+            [term_taxonomy_id] => 22
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[08-Oct-2024 12:53:24 UTC] Tags for modal: Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Frais
+            [slug] => frais
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 15
+            [name] => Huile
+            [slug] => huile
+            [term_group] => 0
+            [term_taxonomy_id] => 15
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 3
+            [name] => Vendu
+            [slug] => vendu
+            [term_group] => 0
+            [term_taxonomy_id] => 3
+            [taxonomy] => post_tag
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+)
+
+[08-Oct-2024 14:51:54 UTC] Automatic updates starting...
+[08-Oct-2024 14:51:55 UTC]   Automatic plugin updates starting...
+[08-Oct-2024 14:51:55 UTC]   Automatic plugin updates complete.
+[08-Oct-2024 14:51:55 UTC] Automatic updates complete.
+[08-Oct-2024 16:20:09 UTC] Hook: edit.php
+[08-Oct-2024 16:20:09 UTC] Not on post edit or new post page
+[08-Oct-2024 16:20:15 UTC] Hook: post.php
+[08-Oct-2024 16:20:15 UTC] Screen: WP_Screen Object
+(
+    [action] => 
+    [base] => post
+    [columns:WP_Screen:private] => 0
+    [id] => page
+    [in_admin:protected] => site
+    [is_network] => 
+    [is_user] => 
+    [parent_base] => 
+    [parent_file] => 
+    [post_type] => page
+    [taxonomy] => 
+    [_help_tabs:WP_Screen:private] => Array
+        (
+        )
+
+    [_help_sidebar:WP_Screen:private] => 
+    [_screen_reader_content:WP_Screen:private] => Array
+        (
+        )
+
+    [_options:WP_Screen:private] => Array
+        (
+        )
+
+    [_show_screen_options:WP_Screen:private] => 
+    [_screen_settings:WP_Screen:private] => 
+    [is_block_editor] => 1
+)
+
+[08-Oct-2024 16:20:15 UTC] Not on tableau post type
+[08-Oct-2024 20:57:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function plugin_dir_url(), 0 passed in C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-content\themes\hello-theme-child-master\functions.php on line 35 and exactly 1 expected in C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\plugin.php:847
+Stack trace:
+#0 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-content\themes\hello-theme-child-master\functions.php(35): plugin_dir_url()
+#1 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\class-wp-hook.php(324): enqueue_custom_scripts('')
+#2 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\script-loader.php(2263): do_action('wp_enqueue_scri...')
+#5 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#6 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#7 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\general-template.php(3065): do_action('wp_head')
+#9 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-content\themes\hello-elementor\header.php(24): wp_head()
+#10 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\template.php(810): require_once('C:\\Users\\lefon\\...')
+#11 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\template.php(745): load_template('C:\\Users\\lefon\\...', true, Array)
+#12 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#13 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-content\themes\hello-elementor\index.php(15): get_header()
+#14 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\lefon\\...')
+#15 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-blog-header.php(19): require_once('C:\\Users\\lefon\\...')
+#16 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\index.php(17): require('C:\\Users\\lefon\\...')
+#17 {main}
+  thrown in C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\plugin.php on line 847
