@@ -456,3 +456,7 @@ Stack trace:
 #16 C:\Users\lefon\Local Sites\arnaud-freminet\app\public\index.php(17): require('C:\\Users\\lefon\\...')
 #17 {main}
   thrown in C:\Users\lefon\Local Sites\arnaud-freminet\app\public\wp-includes\plugin.php on line 847
+[11-Oct-2024 09:53:53 UTC] Automatic updates starting...
+[11-Oct-2024 09:53:55 UTC]   Automatic plugin updates starting...
+[11-Oct-2024 09:53:55 UTC]   Automatic plugin updates complete.
+[11-Oct-2024 09:53:55 UTC] Automatic updates complete.

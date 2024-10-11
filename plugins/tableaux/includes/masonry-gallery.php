@@ -59,16 +59,18 @@ function artiste_tableaux_masonry_gallery_shortcode($atts) {
                     $medium = get_post_meta(get_the_ID(), '_artiste_tableaux_tableau_medium', true);
                     $dimensions = get_post_meta(get_the_ID(), '_artiste_tableaux_tableau_dimensions', true);
                     ?>
-                    <div class="masonry-item<?php echo esc_attr($tag_classes); ?>">
+                    <div class="masonry-item<?php echo esc_attr($tag_classes); ?>" data-post-id="<?php the_ID(); ?>">
+                    <a href="javascript:;" class="gallery-item-link">
                         <?php 
                         if (has_post_thumbnail()) {
                             the_post_thumbnail('medium');
                         }
                         ?>
-                        <p><?php the_title(); ?>
-                        <?php if($medium !=='') ?><br><?php echo esc_html($medium); ?>
-                        <?php if($dimensions !=='') ?><br><?php echo esc_html($dimensions); ?></p>
-                    </div>
+                    </a>
+                    <p><?php the_title(); ?>
+                    <?php if($medium !== ''): ?><br><?php echo esc_html($medium); ?><?php endif; ?>
+                    <?php if($dimensions !== ''): ?><br><?php echo esc_html($dimensions); ?><?php endif; ?></p>
+                </div> 
                     <?php
                 endwhile;
                 wp_reset_postdata();
